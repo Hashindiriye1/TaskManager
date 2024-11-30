@@ -11,7 +11,7 @@ namespace TaskManager
             List<string> history = new List<string>();   
             string input;
 
-            Console.WriteLine("To do Manager");
+            Console.WriteLine("Todo List App");
             Console.WriteLine("-------------------");
 
             do
